@@ -1,0 +1,39 @@
+.logo img {
+    width: 24px; /* Değiştirildi */
+    height: 24px; /* Değiştirildi */
+  }
+  
+  .logo h1 {
+    color: white;
+    font-family: Arial, sans-serif;
+    font-size: 24px;
+    margin-left: 0px; /* Değiştirildi */
+    line-height: 24px; /* Eklendi */
+  }
+  
+  .logo div {
+    display: flex;
+    align-items: flex-start; /* Değiştirildi */
+  }
+
+.price {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+  
+  .price h2 {
+    color: white;
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+  }
+  
+  .price p {
+    color: white;
+    font-family: Arial, sans-serif;
+  }
+  
+  .down {
+    color: red;
+  }
+  
